@@ -1,0 +1,23 @@
+# OptiLearn AI — Python Dependencies
+flask==3.0.3
+flask-cors==4.0.1
+
+# PDF Processing
+pymupdf==1.24.5
+
+# Embeddings (local, no API cost)
+sentence-transformers==3.0.1
+
+# Vector Database
+faiss-cpu==1.8.0
+
+# LLM
+google-genai>=0.8.0
+
+# Database ORM
+sqlalchemy==2.0.31
+
+# Utilities
+python-dotenv==1.0.1
+pydantic==2.8.2
+numpy==1.26.4
